@@ -1,0 +1,19 @@
+#górny
+{
+    text-align: center;
+
+}
+#text1
+{
+    color: red;
+    font-size: 500%;
+}
+body 
+{
+    background-image: url('responsive-backround-12.jpg');
+}
+#link
+{
+    font-size: 400%;
+    line-height: 300px;
+}
